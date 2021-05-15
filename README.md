@@ -4,3 +4,5 @@ my name
 trying hands
 # my bio
 stuff about me
+# secondary school bio
+My name is Oyelaja Kolawole
